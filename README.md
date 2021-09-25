@@ -8,4 +8,5 @@
 
 https://www.boostcourse.org/web316/joinLectures/12943
 
-	1-1-4까지 수강완료
+	21.09.24/ 1-1-4까지 수강완료
+	21.09.25/ 1-1완료, 1-2-1 수강 중
