@@ -1,0 +1,54 @@
+li {
+	list-style : none;
+}
+
+header {
+	background-color : #eee;
+	
+}
+
+#wrap {
+	/*overflow: float된 요소를 자식 취급하기 위해 사용*/
+	overflow: auto;
+	margin:20px 0px;
+}
+
+.left, .right, .realright {
+   float:left;
+   height: 200px;
+}
+
+.left {
+	width:17%;
+	margin-right:3%;
+	background-color : #ab3d;
+}
+
+.right {
+	width:60%;
+	text-align: center;
+	background-color : #a32d;
+}
+
+.realright {
+	width: 17%;
+	margin-left: 3%;
+	background-color: #67c;
+}
+
+.right > h2 {
+	position: relative;
+}
+
+.right .emoticon {
+	position: absolute;
+	top:0px;
+	right:10%;
+	color:#fff;
+}
+
+footer {
+	background-color : #eee;
+	/*clear : float 해제*/
+	clear:left;
+}
