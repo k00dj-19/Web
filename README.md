@@ -21,3 +21,6 @@ https://www.boostcourse.org/web316/joinLectures/12943
 	- 특별한 위치에 배치하기 위해서는 position absolute를 사용하고, 기준점을 relative로 설정합니다.
 	- 네비게이션과 같은 엘리먼트는 block 엘리먼트를 inline-block으로 변경해서 가로로 배치하기도 합니다.
 	-엘리먼트안의 텍스트의 간격과 다른 엘리먼트간의 간격은 padding과 margin 속성을 잘 활용해서 위치시킵니다.
+    
+2. 자바 문법 공부하기 
+https://dinfree.com/lecture/language/112_java_4.html
