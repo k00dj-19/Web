@@ -24,3 +24,12 @@ https://www.boostcourse.org/web316/joinLectures/12943
     
 2. 자바 문법 공부하기 
 https://dinfree.com/lecture/language/112_java_4.html
+
+
+21.10.09
+스프링 공부 시작. 1주일동안 쉬었고 이제 다시 열심히 공부하자. 우선 개념부터 공부 중이다.
+
+유튜브로 스프링부트 개념정리 강좌 수강중이다. 다 수강하고 블로그에 정리해야지!
+2강까지 수강완료.
+
+https://www.youtube.com/watch?v=XBG6CUtVCIg&list=PL93mKxaRDidG_OIfRQ4nztPQ13y74lCYg
