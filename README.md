@@ -35,4 +35,4 @@ https://dinfree.com/lecture/language/112_java_4.html
 https://www.youtube.com/watch?v=XBG6CUtVCIg&list=PL93mKxaRDidG_OIfRQ4nztPQ13y74lCYg
 
 <21.10.10 일>
-스프링부트 강좌 with JPA 3~6강 수강.
+스프링부트 강좌 with JPA 3~8강 수강.
