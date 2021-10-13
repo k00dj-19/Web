@@ -43,4 +43,7 @@ https://www.youtube.com/watch?v=XBG6CUtVCIg&list=PL93mKxaRDidG_OIfRQ4nztPQ13y74l
 <21.10.11 월>
 스프링부트 강좌 with JPA 9~14강 수강. 기초 개념강의 수강완료. spring boot에 대해 기초부터 작동원리까지 유익한 개념을 배울 수 있었다.
 
+<21.10.13 수>
+블로그에 개념 공부한 것 정리.
+https://k00dj-19.tistory.com/category/%EA%B0%9C%EB%B0%9C/spring%20boot
 
